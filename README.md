@@ -1,4 +1,4 @@
-# Transformers_Movie_reviews
+# Movie_reviews_using_Transformer
 
 Here I first did EDA on movie reviews data
 
